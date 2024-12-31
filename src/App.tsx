@@ -23,9 +23,9 @@ function App() {
         <CtaButton email="hala@odayy.com" />
 
         <div className="flex space-x-4 md:space-x-8">
-          <SocialLink href="https://linkedin.com" icon={<LinkedInIcon />} label="LinkedIn" />
-          <SocialLink href="https://x.com" icon={<XIcon />} label="X (formerly Twitter)" />
-          <SocialLink href="https://instagram.com" icon={<InstagramIcon />} label="Instagram" />
+          <SocialLink href="https://www.linkedin.com/in/odaynoman/" icon={<LinkedInIcon />} label="LinkedIn" />
+          <SocialLink href="https://x.com/odaynoman" icon={<XIcon />} label="X" />
+          <SocialLink href="https://instagram.com/oday.noman" icon={<InstagramIcon />} label="Instagram" />
         </div>
       </div>
     </div>
